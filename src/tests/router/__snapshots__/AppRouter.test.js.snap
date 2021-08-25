@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en AppRouter debe de mostar el AppRouter correctamente 1`] = `
+<div
+  style={
+    Object {
+      "margin": "4rem auto",
+      "maxWidth": "50rem",
+    }
+  }
+>
+  <BrowserRouter>
+    <Switch>
+      <Route
+        component={[Function]}
+        exact={true}
+        path="/"
+      />
+      <Route
+        component={[Function]}
+        exact={true}
+        path="/add"
+      />
+      <Route
+        component={[Function]}
+        exact={true}
+        path="/edit/:id"
+      />
+    </Switch>
+  </BrowserRouter>
+</div>
+`;

@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en ContextScreen debe de mostrarse correctamente 1`] = `
+<Fragment>
+  <Heading />
+  <UserList />
+</Fragment>
+`;
